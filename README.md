@@ -1,4 +1,4 @@
 # Commands
-Any command from any system
+Any command for any system
 
 
